@@ -1,5 +1,37 @@
 [
   {
+    "path": "posts/Myth of Black IQ Inferiority Response 2/",
+    "title": "Myth of Black IQ Inferiority Response 2",
+    "description": "My reaction to sections 2 and 3 of Johnathan Crane's article",
+    "author": [
+      {
+        "name": "Patrick Ihejirika",
+        "url": "https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/"
+      }
+    ],
+    "date": "2020-08-28",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-28T14:50:47-04:00",
+    "input_file": "CopyOf08_26_20-First-Post.utf8.md"
+  },
+  {
+    "path": "posts/Myth of Black IQ Inferiority Response 1/",
+    "title": "Myth of Black IQ Inferiority Response",
+    "description": "My reaction to section 1 of Johnathan Crane's article",
+    "author": [
+      {
+        "name": "Patrick Ihejirika",
+        "url": "https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/"
+      }
+    ],
+    "date": "2020-08-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-28T14:51:58-04:00",
+    "input_file": "08_26_20-First-Post.utf8.md"
+  },
+  {
     "path": "posts/08_26_20 First Post/",
     "title": "I JUST MADE A BLOG",
     "description": "I just learned how to use distill to create a functioning, but basic blog",
@@ -9,26 +41,10 @@
         "url": "https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/"
       }
     ],
-    "date": "2020-08-26",
+    "date": "2020-08-24",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-26T13:12:32-04:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/Myth of Black IQ Inferiority Response/",
-    "title": "Myth of Black IQ Inferiority Response",
-    "description": "My reaction to Johnathan Crane's article",
-    "author": [
-      {
-        "name": "Patrick Ihejirika",
-        "url": "https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/"
-      }
-    ],
-    "date": "2020-08-26",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-08-28T12:45:36-04:00",
-    "input_file": {}
+    "last_modified": "2020-08-28T14:53:01-04:00",
+    "input_file": "08_26_20-First-Post.utf8.md"
   }
 ]

@@ -1,7 +1,7 @@
 ---
 title: "Myth of Black IQ Inferiority Response"
 description: |
-  My reaction to Johnathan Crane's article
+  My reaction to section 1 of Johnathan Crane's article
 author:
   - name: Patrick Ihejirika 
     url: https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/
