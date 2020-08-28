@@ -1,0 +1,50 @@
+[
+  {
+    "path": "posts/08_26_20 First Post/",
+    "title": "I JUST MADE A BLOG",
+    "description": "I just learned how to use distill to create a functioning, but basic blog",
+    "author": [
+      {
+        "name": "Patrick Ihejirika",
+        "url": "https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/"
+      }
+    ],
+    "date": "2020-08-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-26T13:12:32-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/Myth of Black IQ Inferiority Response/",
+    "title": "Myth of Black IQ Inferiority Response",
+    "description": "My reaction to Johnathan Crane's article",
+    "author": [
+      {
+        "name": "Patrick Ihejirika",
+        "url": "https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/"
+      }
+    ],
+    "date": "2020-08-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-26T14:22:38-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Patrick Ihejirika's Coding Blog",
+    "description": "Welcome to our new blog, My Test Blog. I will update this blog with each new assignment or update recieved while researching",
+    "author": [
+      {
+        "name": "Patrick Ihejirika",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-08-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-26T12:31:35-04:00",
+    "input_file": {}
+  }
+]

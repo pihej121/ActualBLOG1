@@ -1,0 +1,27 @@
+---
+title: "I JUST MADE A BLOG"
+description: |
+  I just learned how to use distill to create a functioning, but basic blog
+author:
+  - name: Patrick Ihejirika 
+    url: https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/
+    affiliation: Brooklyn College MARC Program
+    affiliation_url: https://example.com/spacelysprokets
+date: 08-26-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+I just learned how to create a blog of my very through Rstudio as an assignment by my research mentor Dr. Matthew Crump. First I had to install the distill package, then restart the rsession I was previously on, and start a new project by selecting the distill blog template option. I managed to link it to my Linkedn account. After I push it to Github and make it a public repository, I will continue to use it to monitor and track my progress as I continue to conduct research and sharpen my coding skills
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+
