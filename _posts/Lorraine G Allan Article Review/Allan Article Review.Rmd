@@ -1,0 +1,26 @@
+---
+title: "I just learned about Contingency judgements"
+description: |
+  Reaction to Allan's Article on Contingency Judgements
+author:
+  - name: Patrick Ihejirika 
+    url: https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/
+    affiliation: Brooklyn College MARC Program
+    affiliation_url: https://example.com/spacelysprokets
+date: 09-07-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+After reading this article to entirely, I was left with more questions than answer. I would say I was able to understand only like 80% or so of what was in this paper, but I couldn't quite wrap my head around certain concepts. For example, while I was able to understand the concepts of Rule Based and Associative Models, I was a bit confused on how binary variables was incorporated into them. Though I may have found a possible solution of understanding their relation to binary variables through an example involving a dog's multiple attempts to acquire food, I am still quite unsure if it is correct. Also, while I believe I understand the concept of what exactly a contingency judgement is and it's relationship to other psychological concepts such as top-down processing, classical conditioning, and operant conditioning, I am largely unsure of the formulas used for the rules because I have no clue how the variables for the salience of the CS and the effectiveness of the UCS are both quantized and measured, unless both are arbitrary. Also, since Contingency as a whole is the relationship between two events, why not simply utilize binary variables to represent the relationship between some event and it's specific effect and then compile them all through a Pearson's- Correlation model to see how strong the relationship exists between the CS and the response. Of course a problem arises when multiple input values which could serve as a CS exist along side the CS.I have several other questions along with the ones indicated in the blog, but I fully intend on asking them in my meeting with Dr.Crump tomorrow and will transcribe his response in another blog entry later.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+

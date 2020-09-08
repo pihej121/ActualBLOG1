@@ -1,5 +1,37 @@
 [
   {
+    "path": "posts/Lorraine G Allan Article Review/",
+    "title": "I just learned about Contingency judgements",
+    "description": "Reaction to Allan's Article on Contingency Judgements",
+    "author": [
+      {
+        "name": "Patrick Ihejirika",
+        "url": "https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/"
+      }
+    ],
+    "date": "2020-09-07",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-07T20:41:39-04:00",
+    "input_file": "Allan-Article-Review.utf8.md"
+  },
+  {
+    "path": "posts/Tuesday 09_01_2020 Meeting/",
+    "title": "Weekly Lab Meeting",
+    "description": "Weekly Lab Meeting for Tuesday September 1st, 2020",
+    "author": [
+      {
+        "name": "Patrick Ihejirika",
+        "url": "https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/"
+      }
+    ],
+    "date": "2020-09-01",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-07T20:06:15-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/Myth of Black IQ Inferiority Response 2/",
     "title": "Myth of Black IQ Inferiority Response 2",
     "description": "My reaction to sections 2 and 3 of Johnathan Crane's article",
@@ -12,8 +44,8 @@
     "date": "2020-08-28",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-28T14:50:47-04:00",
-    "input_file": "CopyOf08_26_20-First-Post.utf8.md"
+    "last_modified": "2020-08-28T14:50:48-04:00",
+    "input_file": {}
   },
   {
     "path": "posts/Myth of Black IQ Inferiority Response 1/",
@@ -28,8 +60,8 @@
     "date": "2020-08-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-28T14:51:58-04:00",
-    "input_file": "08_26_20-First-Post.utf8.md"
+    "last_modified": "2020-08-28T14:51:59-04:00",
+    "input_file": {}
   },
   {
     "path": "posts/08_26_20 First Post/",
@@ -44,7 +76,7 @@
     "date": "2020-08-24",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-28T14:53:01-04:00",
-    "input_file": "08_26_20-First-Post.utf8.md"
+    "last_modified": "2020-08-28T14:53:02-04:00",
+    "input_file": {}
   }
 ]

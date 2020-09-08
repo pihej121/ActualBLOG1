@@ -1,0 +1,29 @@
+---
+title: "Weekly Lab Meeting"
+description: |
+  Weekly Lab Meeting for Tuesday September 1st, 2020
+author:
+  - name: Patrick Ihejirika 
+    url: https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/
+    affiliation: Brooklyn College MARC Program
+    affiliation_url: https://example.com/spacelysprokets
+date: 09-01-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# Tuesday September 1, 2020
+I've just completed my weekly meeting with Dr.Crump and what an eventful meeting it was. I was introduced to a collegue who will be joining us in Dr. Crump's lab this semester and after this, we decided on the experimental question we will be researching this semester. The question is "Does the Mirnerva Model resolve the issue of the negative contingency development model since the Rescorla-Wagner Model fails to do so?" In an effort to get more informed on exactly what we're researching we've began a literature review to learn more about exactly what a contingency development model is, how can a contingency development model be negative, what exactly a Mirnerva Model is and finally what the Rescorla-Wagner model is. We've decided to start our learning of the topic from a broad domain of Contingency learning, and gradually move closer and closer to the specifics listed above.
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+
