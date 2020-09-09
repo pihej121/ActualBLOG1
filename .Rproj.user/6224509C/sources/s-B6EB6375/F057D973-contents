@@ -1,0 +1,38 @@
+---
+title: "Contingency Judgement on the fly Review"
+description: |
+  Reaction to Dr.Crump's paper on Contingency Judgements
+author:
+  - name: Patrick Ihejirika 
+    url: https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/
+    affiliation: Brooklyn College MARC Program
+    affiliation_url: https://example.com/spacelysprokets
+date: 09-09-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+Since my last blog entry, I've gained a relatively larger understanding of the domain of contingency judgments in terms of what it means within the realm of cognitive psychology and learning, as well as grasped a better understanding of precisely how contingency judgments relates to correlative statistics through the use of the delta p calculation rule. I will attempt to code for an example of this delta p rule below.
+
+
+```{r}
+Outcomepairings<- matrix(c(25, 25, 25, 25), ncol=2, byrow = TRUE)
+ colnames(Outcomepairings) <-  c("Outcome", "No Outcome")
+ rownames(Outcomepairings) <- c("Cue", "No Cue")
+Outcomepairings <- as.table(Outcomepairings)
+Outcomepairings
+```
+
+In this example though it is a good deduction to claim that there is a randomized relationship between the event's presence or lack thereof and the presence of some output, or lack thereof, as a result of each outcome being equally likely to occur. My previous inquiry which consisted of my asking why a Pearson's Correlation wasn't used instead of the delta P rule was answered also, through the explanation by Dr.Crump that the delta P rule incorporates some components of the Pearson's Correlation into its calculations. 
+Now, in respects of Dr.Crump's paper, I appreciated how well it simplified certain terms and concepts so even a laymen like me who has just began to research this topic could understand with ease, dare I say I wish he introduced this to us before the other paper. I am very interested in the contingency judgment experimental technique he developed, specifically I am curious about whether or not he or anyone else has utilized his procedure to apply Signal detection theory within the domain of contingency judgment. If not, I am certainly interested in doing so.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+

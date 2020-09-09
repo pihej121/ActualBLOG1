@@ -1,0 +1,19 @@
+"0","Outcomepairings<- matrix(c(25, 25, 25, 25), ncol=2, byrow = TRUE)
+ colnames(Outcomepairings) <-  c(""Outcome"", ""No Outcome"")
+ rownames(Outcomepairings) <- c(""Cue"", ""No Cue"")
+Outcomepairings <- as.table(Outcomepairings)
+Outcomepairings
+"
+"1","      "
+"1"," Outcome"
+"1"," No Outcome"
+"1","
+Cue   "
+"1","      25"
+"1","         25"
+"1","
+No Cue"
+"1","      25"
+"1","         25"
+"1","
+"

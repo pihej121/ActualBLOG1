@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/Dr. Matthew Crump Article Review/",
+    "title": "Contingency Judgement on the fly Review",
+    "description": "Reaction to Dr.Crump's paper on Contingency Judgements",
+    "author": [
+      {
+        "name": "Patrick Ihejirika",
+        "url": "https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/"
+      }
+    ],
+    "date": "2020-09-09",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-09T16:47:50-04:00",
+    "input_file": "Dr.Crump-paper-review.utf8.md"
+  },
+  {
     "path": "posts/Lorraine G Allan Article Review/",
     "title": "I just learned about Contingency judgements",
     "description": "Reaction to Allan's Article on Contingency Judgements",
