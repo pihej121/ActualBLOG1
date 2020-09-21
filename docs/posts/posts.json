@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/Schema Abstraction Article Review/",
+    "title": "Mirnerva Model Review",
+    "description": "Reaction to the paper on Mirnerva Models",
+    "author": [
+      {
+        "name": "Patrick Ihejirika",
+        "url": "https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/"
+      }
+    ],
+    "date": "2020-09-21",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-21T15:02:37-04:00",
+    "input_file": "Mirnerva-Model-2.utf8.md"
+  },
+  {
     "path": "posts/Dr. Matthew Crump Article Review/",
     "title": "Contingency Judgement on the fly Review",
     "description": "Reaction to Dr.Crump's paper on Contingency Judgements",

@@ -1,0 +1,27 @@
+---
+title: "Mirnerva Model Review"
+description: |
+  Reaction to the paper on Mirnerva Models
+author:
+  - name: Patrick Ihejirika 
+    url: https://www.linkedin.com/in/patrick-ihejirika-1a3a60193/
+    affiliation: Brooklyn College MARC Program
+    affiliation_url: https://example.com/spacelysprokets
+date: 09-21-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+After spending a couple of days pouring over this article, I still dont have as strong a grasp of this concept as I'd have liked. I believe the source of my confusion lies on my lack of comprehending the arithmetic used in this experiment, as well as a bit of confusion on what the Mirnerva Model 2 tests exactly. So far I'm aware that it utilizes a coefficient calculation to successfully quantify the strength of recognition and top down processing of a given cue after the presupposition is made that the proper bottom up processes have been made in order for a conceptual prototype to exist. With this being said however, I stillwas able to answer a question which was pestering me, which was how could the forgetting curve to used in terms of a correlative model, if the forgetting curve depicts an exponential curve, while the correlation model displays a linear slope. The answer is, it isn't the forgetting curve that's analyzed, it's its differential property which is used in relation to the linear curve, since the differential of an exponential function is a linear function. 
+In terms of the contingency judgements, I think I have somewhat of an idea of how the two concepts are related. Since both can be measured through correlative models, it may be possible to alter some parts of the Mirnerva Model to test the negative Contingency Judgements.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+
